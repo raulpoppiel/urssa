@@ -1,2 +1,2 @@
 # urssa
-Unsupervised Routine Soil Spectral Analysis
+Unsupervised Routine Soil Spectral 
