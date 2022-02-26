@@ -8,9 +8,9 @@ This repository provides a csv file conainting 350-2500 nm soil spectra and a co
 
 
 ## Core functionalities (routines)
-- Correlation analysis between soil data and spectra
 - Unsupervised spectral clustering of samples
-- Internal quality control (outlier detection) for laboratories
+- Internal quality control (outlier detection and removal) of analytical results
+- Correlation analysis between soil data and spectra
 - Samples selection for traditional analysis
 - Samples selection for soil prediction (cost reduction)
 
