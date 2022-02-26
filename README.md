@@ -8,8 +8,10 @@ This repository provides a csv file conainting 350-2500 nm soil spectra and a co
 
 
 ## Core functionalities
-- Internal quality control
-- Samples selection for analysis and prediction
+- Spectral clustering of samples
+- Internal quality control (outlier detection)
+- Samples selection for traditional analysis
+- Samples selection for soil prediction (cost reduction)
 
 
 ## Reference
