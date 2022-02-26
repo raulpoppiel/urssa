@@ -16,3 +16,8 @@ This repository provides a csv file conainting 350-2500 nm soil spectra and a co
 Please, cite the following paper when using `urssa`:
 
 > Poppiel, R.R.; Paiva, A.F.S.; Demattê, J.A.M. Bridging the gap between soil spectroscopy and tradition-al laboratory: insights for routine implementation. Geoderma, 2022. DOI: [https://](https://)
+
+
+https://github.com/l-ramirez-lopez/resemble
+https://github.com/zecojls/tagee
+https://github.com/neli12
