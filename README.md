@@ -7,7 +7,7 @@ The `urssa` code provides basic unsupervised functionalities for the use of spec
 This repository provides a csv file conainting 350-2500 nm soil spectra and a code (divided in modelues) with a reproducible example.
 
 
-## Core modules
+## Core functionalities
 - Internal quality control
 - Samples selection for analysis and prediction
 
