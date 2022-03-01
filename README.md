@@ -33,3 +33,4 @@ Please, cite the following paper when using `urssa`:
 - https://github.com/zecojls/tagee
 - https://github.com/neli12
 - https://docs.github.com/pt/get-started/quickstart/create-a-repo
+- https://shields.io/category/build
