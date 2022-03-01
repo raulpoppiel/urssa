@@ -1,8 +1,10 @@
 # `urssa` Unsupervised Routine Soil Spectral Analysis
 <p align='left'>
+  <a href="#"><img src="https://img.shields.io/badge/repo%20status-90%25%20ready-yellowgreen"></a>
+</p>
+<p align='left'>
   <a href="#"><img src="https://badges.pufler.dev/visits/raulpoppiel/urssa"></a> pedometricians have come here
 </p>
- 
 <em><p align="right"> Bridging the gap between soil spectroscopy and traditional laboratory </p></em>
 
 _Last update: 01-02-2022 (dd/mm/yyyy)_
