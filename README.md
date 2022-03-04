@@ -10,7 +10,7 @@
 
 ## About
 The `urssa` code provides basic unsupervised functionalities for the use of spectra in laboratory routines. 
-This repository provides a csv file conainting 350-2500 nm soil spectra and a code (divided in modelues) with a reproducible example.
+This repository provides a csv file conainting 350-2500 nm soil spectra and codes (divided in modelues) following a reproducible example.
 
 
 ## Core functionalities (routines)
@@ -20,6 +20,14 @@ This repository provides a csv file conainting 350-2500 nm soil spectra and a co
 - Samples selection for traditional analysis
 - Samples selection for soil prediction (cost reduction)
 
+## R Codes
+`urssa_01.R`:
+- FFFFF
+- FFFF
+
+`urssa_02.R`:
+- FFF
+- FFF
 
 ## Reference
 Please, cite the following paper when using `urssa`:
