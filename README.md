@@ -20,10 +20,15 @@ This repository provides a csv file conainting 350-2500 nm soil spectra and code
 - Samples selection for traditional analysis
 - Samples selection for soil prediction (cost reduction)
 
-## Data
+## Data available for download
 The `Soil_data_spectra.csv` file contains:
-- Soil Attributes data: Clay (g kg-1), Sand (g kg-1), Organic Matter - OM (g kg-1), Cation Exchange Capacity - CEC (mmolc kg-1), Base Saturation - V (%);
-- Soil reflectance spectra: from 350 to 2500 nm at 1 nm resolution.
+* Soil Attributes data: 
+    - Clay (g kg-1), 
+    - Sand (g kg-1), 
+    - Organic Matter - OM (g kg-1), 
+    - Cation Exchange Capacity - CEC (mmolc kg-1), 
+    - Base Saturation - V (%);
+* Soil reflectance spectra: from 350 to 2500 nm at 1 nm resolution.
 
 ## R Codes
 `urssa_01.R`:
