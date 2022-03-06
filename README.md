@@ -7,8 +7,7 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/raulpoppiel/urssa"></a> pedometricians have come here
 </p>
 <em><p align="right"> Bridging the gap between soil spectroscopy and traditional laboratory </p></em>
-<a href="#"><img src="https://img.shields.io/github/downloads/raulpoppiel/urssa"></a>
-<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/raulpoppiel/urssa/total?style=plastic">
+
 ## About
 The `urssa` code provides basic unsupervised functionalities for the use of spectra in laboratory routines. 
 This repository provides a csv file conainting 350-2500 nm soil spectra and codes (divided in modelues) following a reproducible example.
