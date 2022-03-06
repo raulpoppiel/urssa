@@ -8,6 +8,9 @@
 </p>
 <em><p align="right"> Bridging the gap between soil spectroscopy and traditional laboratory </p></em>
 
+<a href="#"><img src="https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg"></a>
+[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+
 ## About
 The `urssa` code provides basic unsupervised functionalities for the use of spectra in laboratory routines. 
 This repository provides a csv file conainting 350-2500 nm soil spectra and codes (divided in modelues) following a reproducible example.
