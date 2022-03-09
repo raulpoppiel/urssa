@@ -2,7 +2,7 @@
 <p align='left'>
   <a href="#"><img src="https://img.shields.io/badge/repo%20status-100%25%20ready-green"></a>
     <a href="#"><img src="https://img.shields.io/badge/Last%20update-05--Mar--2022-blueviolet"></a>
-  <a href="#"><img src="https://img.shields.io/github/downloads/raulpoppiel/urssa/ursa-v1.0.0/total?color=green&label=downloads&style=plastic"></a>
+  <a href="#"><img src="https://img.shields.io/github/downloads/raulpoppiel/urssa/ursa-v1.0.0/total?color=green&label=downloads&style=flat"></a>
 </p>
 <p align='left'>
   <a href="#"><img src="https://badges.pufler.dev/visits/raulpoppiel/urssa"></a> pedometricians have come here
