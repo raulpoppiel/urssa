@@ -5,6 +5,7 @@
 </p>
 <p align='left'>
   <a href="#"><img src="https://badges.pufler.dev/visits/raulpoppiel/urssa"></a> pedometricians have come here
+    <a href="#"><img src="https://img.shields.io/github/downloads-pre/raulpoppiel/urssa/latest/total"></a>
 </p>
 <em><p align="right"> Bridging the gap between soil spectroscopy and traditional laboratory </p></em>
 
