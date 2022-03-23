@@ -50,6 +50,10 @@ The `Soil_data_spectra.csv` file contains:
 - MODULE 3: Soil attributes modeling with CUBIST
 - MODULE 4: Assessment of prediction results
 
+## Methodological flowchart
+<div align="center">
+<img src="https://user-images.githubusercontent.com/28542789/159790381-c3e5c02c-ba65-4dec-94ec-c648f62e782f.png" width="700px" />
+</div>
 
 ## Reference
 Please, cite the following paper when using `urssa`:
