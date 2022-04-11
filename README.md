@@ -1,4 +1,4 @@
-# `urssa` Unsupervised Routine Soil Spectral Analysis   <img src="https://user-images.githubusercontent.com/28542789/159803398-fd7f956e-26ca-4c66-88a3-a098245897e4.png" width="60px" />
+# `urssa` Unsupervised Routine Soil Spectral Analysis  <img align="right" width="160px" src="https://user-images.githubusercontent.com/28542789/162770776-30b1032c-248e-4d2b-b221-af4ac92c1856.png"/>
 
 <p align='left'>
   <a href="#"><img src="https://img.shields.io/badge/repo%20status-100%25%20ready-green"></a>
