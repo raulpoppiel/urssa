@@ -7,8 +7,6 @@
   
   <a href="#"><img align='left' src="https://badges.pufler.dev/visits/raulpoppiel/urssa"></a> pedometricians have come here
 
-
-\
 \
 <em><p align="right"> Bridging the gap between soil spectroscopy and traditional laboratory </p></em>
 
