@@ -5,10 +5,9 @@
     <a href="#"><img src="https://img.shields.io/badge/Last%20update-05--Mar--2022-blueviolet"></a>
   <a href="#"><img src="https://img.shields.io/github/downloads/raulpoppiel/urssa/ursa-v1.0.0/total?color=green&label=downloads&style=flat"></a>
   
-  <a href="#"><img align='left' src="https://badges.pufler.dev/visits/raulpoppiel/urssa"></a> pedometricians have come here
-
-\
-<em><p align="right"> Bridging the gap between soil spectroscopy and traditional laboratory </p></em>
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=raulpoppiel/urssa&left_color=gray&right_color=green) pedometricians have come here
+  
+  
 
 ## About
 The `urssa` code provides basic unsupervised functionalities for the use of spectra in laboratory routines. 
