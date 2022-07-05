@@ -58,4 +58,4 @@ The `Soil_data_spectra.csv` file contains:
 ## Reference
 Please, cite the following paper when using `urssa`:
 
-> Poppiel, R.R.; Paiva, A.F.S.; Demattê, J.A.M. Bridging the gap between soil spectroscopy and tradition-al laboratory: insights for routine implementation. Geoderma, 2022. DOI: [https://](https://)
+> Poppiel, R.R.; Paiva, A.F.S.; Demattê, J.A.M. Bridging the gap between soil spectroscopy and tradition-al laboratory: insights for routine implementation. Geoderma, 2022. DOI: [https://](https://doi.org/10.1016/j.geoderma.2022.116029)
